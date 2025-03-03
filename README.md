@@ -21,7 +21,7 @@ We used Telnet to test the server by simulating multiple clients.
 Players connected to the server using the following command in a terminal:
 ***telnet localhost 9090***
 This allowed multiple users to join the game and play simultaneously from different terminals, verifying the server's ability to handle multiple connections.
-Key Features
+---Key Features---
 ✅ Multi-threaded: Each player gets their own thread, allowing multiple clients to play simultaneously.
 ✅ Random Magic Number: The number to guess is different every time the server starts.
 ✅ Broadcasting System: When a player wins, all other players are notified.
