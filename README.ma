@@ -28,4 +28,5 @@ Key Features
 ✅ Telnet Testing: Easy to test the server without a dedicated client application.
 
 Screenshot:
+
 <img src="/captures/screenshot.png">
