@@ -35,10 +35,6 @@ This allowed multiple users to join the game and play simultaneously from differ
 ✅ **Broadcasting System:** When a player wins, all other players are notified.
 ✅ **Telnet Testing:** Easy to test the server without a dedicated client application.
 
----
-Would you like to add a section on possible improvements or next steps? 🚀
-
-
 
 ***Screenshot:***
 
