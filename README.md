@@ -13,3 +13,5 @@ Chat in real-time between the two applications
 
 Here is a screenshot of the app 
 <img src="captures/capture.png">
+
+<img src="captures/capture1.png.png">
